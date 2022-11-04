@@ -1,0 +1,6 @@
+.display {
+  background-image: url('../public/display.png');
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+}
